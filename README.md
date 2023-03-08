@@ -1,5 +1,7 @@
 # Dungeon and Dragon Spells
 
+Deployed at: https://dungeon-and-dragons-spells.vercel.app/
+
 ## Running the app
 
 1. Install dependencies with the following script in the project directory:
